@@ -16,9 +16,9 @@ This repository is strictly for individuals who wrote either their CGPA or Trans
 
 - Head on to the forked repository if using remote access or the cloned repository if making changes from your local machine.
 
-- Navigate to [submissions](../C/submissions) directory in the repository 
+- Navigate to submissions directory in the repository inside C folder
 
-- Create a new folder inside [submissions](../C/submissions) with your *Matriculation Number* as the folder name Example: (Folder format): ENG1503XXXX 
+- Create a new folder inside submissions with your *Matriculation Number* as the folder name Example: (Folder format): ENG1503XXXX 
 
 - Place all related codes in this personally created folder
 
