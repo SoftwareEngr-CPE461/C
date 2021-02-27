@@ -1,3 +1,4 @@
+
 # C-Language
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
@@ -26,6 +27,3 @@ This repository is strictly for individuals who wrote either their CGPA or Trans
 
 - When finally done, create a PR to the **submission branch** with the PR title "**submission**" after correctly checking everything on the PR template
 
-
-
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
