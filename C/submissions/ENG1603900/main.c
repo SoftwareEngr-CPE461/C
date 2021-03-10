@@ -6,7 +6,7 @@ int main()
    int j,z,y,x,w,v,choice;
    float t;
    char score[9];
-   printf("This is a program to display your gpa for your 400 level first semester \n");
+   printf("This is a program to display your gpa \n");
     printf("\nEnter the grades of your four 3 credit load courses\n");
 
        for(j=0; j<4; j++)
